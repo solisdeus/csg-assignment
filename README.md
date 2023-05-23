@@ -1,2 +1,2 @@
 # csg-assignment
-Repo created to add msg assignment
+Repo created to add csg assignment
